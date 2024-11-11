@@ -23,7 +23,8 @@ Essa abordagem permite que usuários com pouca experiência em linha de comando 
 
 ```bash
 
-    curl -O https://raw.githubusercontent.com/pedrovian4/Ventana/main/install.sh
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/pedrovian4/Ventana/main/install.sh)"
+
 ```
 
 

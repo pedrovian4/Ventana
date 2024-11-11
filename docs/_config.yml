@@ -3,3 +3,4 @@ description: "Documentação do Ventana em múltiplos idiomas."
 baseurl: "/Ventana"
 url: "https://pedrovian4.github.io" 
 theme: jekyll-theme-slate
+markdown: kramdown

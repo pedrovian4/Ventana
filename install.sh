@@ -114,12 +114,17 @@ go build -o ventana ./cmd/ventana
 echo_info "Installing Ventana to /usr/local/bin..."
 sudo mv ventana /usr/local/bin/
 
+CONFIG_DIR="$HOME/.config/ventana"
+mkdir -p "$CONFIG_DIR"
+
+echo_info "Copying messages directory to $CONFIG_DIR..."
+cp -r "$VENTANA_DIR/messages" "$CONFIG_DIR/"
+
 if [ "$USE_SYSTEM_GO" = false ]; then
     echo_info "Cleaning up local Go installation..."
     rm -rf "$GO_INSTALL_DIR"
 fi
 
-echo_info "Installation complete! Check by running 'ventana --help'"
+echo_info "Installation complete! Check by running 'ventana'"
 
 echo_info "Installation finished."
-!!
