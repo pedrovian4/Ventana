@@ -21,7 +21,10 @@ Essa abordagem permite que usuários com pouca experiência em linha de comando 
 
 ## Instalação 🪟
 
-`curl -O https://raw.githubusercontent.com/pedrovian4/Ventana/main/install.sh`
+```bash
+
+    curl -O https://raw.githubusercontent.com/pedrovian4/Ventana/main/install.sh
+```
 
 
 ---
