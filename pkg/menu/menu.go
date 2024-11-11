@@ -84,5 +84,5 @@ func (m *Menu) Display() {
 	default:
 		fmt.Println("Invalid choice.")
 	}
-	//fmt.Print("\033[H\033[2J")
+	fmt.Print("\033[H\033[2J")
 }
