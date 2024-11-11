@@ -12,7 +12,7 @@ O ventana cria uma configuração padrão no primeira abertura dele.
 
 Exemplo de arquivo de configuração `ventana.json`:
 
-```json
+``` json
 
 {
   "language": "en",

@@ -11,16 +11,19 @@ Ventana creates a default configuration file on its first run.
 
 Example of a `ventana.json` configuration file:
 
-```json
+
+``` json
+
 {
   "language": "en",
-  "history_file": "/home/user/.config/ventana/history.csv",
+  "history_file": "/home/usuario/.config/ventana/history.csv",
   "message_directory": "./messages",
   "default_retry_count": 3,
   "default_retry_delay": 5,
-  "config_file_path": "/home/user/.config/ventana/ventana.json",
-  "scripts_directory": "/home/user/.config/ventana/scripts"
+  "config_file_path": "/home/usuario/.config/ventana/ventana.json",
+  "scripts_directory": "/home/usuario/.config/ventana/scripts"
 }
+
 ```
 
 ## Configuration Explanation
