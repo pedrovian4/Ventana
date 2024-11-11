@@ -26,10 +26,12 @@ func NewAppConfig() *AppConfig {
 	}
 	configFilePath := filepath.Join(homeDir, ".config", "ventana", "ventana.json")
 	scriptsDir := filepath.Join(homeDir, ".config", "ventana", "scripts")
+	messageDirectory := filepath.Join(homeDir, ".config", "ventana", "messages")
+
 	return &AppConfig{
 		Language:          "en",
 		HistoryFile:       filepath.Join(filepath.Dir(configFilePath), "history.csv"),
-		MessageDirectory:  "./messages",
+		MessageDirectory:  messageDirectory,
 		DefaultRetryCount: 3,
 		DefaultRetryDelay: 5,
 		ConfigFilePath:    configFilePath,
