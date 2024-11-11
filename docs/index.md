@@ -30,6 +30,9 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/pedrovian4/Ventana/main/
 
 ---
 
+## Ventana
+
+
 ![alt text](assets/ventana.gif)
 
 ---
