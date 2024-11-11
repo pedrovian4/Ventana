@@ -17,6 +17,11 @@ O Ventana foi criado para facilitar o gerenciamento de múltiplos servidores, si
 
 Essa abordagem permite que usuários com pouca experiência em linha de comando operem o Ventana com confiança, enquanto usuários avançados podem aproveitar a velocidade e a eficiência no gerenciamento de infraestrutura.
 
+## Instalação 🪟
+
+`curl -O https://raw.githubusercontent.com/pedrovian4/Ventana/main/install.sh`
+
+
 ---
 
 ![alt text](assets/ventana.gif)
