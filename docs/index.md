@@ -56,6 +56,9 @@ Assim como uma janela nos permite ver o mundo de diferentes perspectivas, o Vent
 
 ---
 
+## Desenvolvedores
+
+
 
 <img src="https://avatars.githubusercontent.com/u/66711752?s=400&u=8acfd48009a05ea7da659ab985b0312404b885b2&v=4" alt="Pedro's profile picture" width="100"/>
 
