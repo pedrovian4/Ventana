@@ -21,7 +21,7 @@ Example of a `ventana.json` configuration file:
   "config_file_path": "/home/user/.config/ventana/ventana.json",
   "scripts_directory": "/home/user/.config/ventana/scripts"
 }
-
+```
 
 ## Configuration Explanation
 
