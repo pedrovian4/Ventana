@@ -1,4 +1,4 @@
-[English](../en/index.md) | [Português](../pt/index.md)
+[English](../en/index) | [Português](../pt/index)
 
 # Documentação do Ventana
 
