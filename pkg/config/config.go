@@ -135,7 +135,6 @@ func (c *AppConfig) InitializeAutocomplete() error {
 }
 
 func (c *AppConfig) InitializeScripts() error {
-	fmt.Println(c.ScriptsDirectory)
 	if _, err := os.Stat(c.ScriptsDirectory); os.IsNotExist(err) {
 		return os.MkdirAll(c.ScriptsDirectory, 0755)
 	}
