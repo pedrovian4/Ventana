@@ -1,3 +1,5 @@
+[English](../en/index.md) | [Português](../pt/index.md)
+
 # Documentação do Ventana
 
 

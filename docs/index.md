@@ -1,3 +1,5 @@
+[English](../en/index.md) | [Português](../pt/index.md)
+
 # Ventana
 
 ![alt text](assets/image.png)
@@ -45,8 +47,8 @@ O Ventana está evoluindo continuamente. O roadmap inclui planos para expandir o
 
 ### Selecione um Idioma para Continuar:
 
-- [English Documentation](./docs/en/index.md)
-- [Documentação em Português](./docs/pt/index.md)
+- [English Documentation](../en/index.md)
+- [Documentação em Português](../pt/index.md)
 
 ---
 
