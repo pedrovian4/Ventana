@@ -1,4 +1,4 @@
-[English](../en/index) | [Português](../pt/index)
+[English](/Ventana/en/) | [Português](/Ventana/pt/)
 
 # Ventana
 
@@ -54,8 +54,8 @@ O Ventana está evoluindo continuamente. O roadmap inclui planos para expandir o
 
 ### Selecione um Idioma para Continuar:
 
-- [English Documentation](../en/index)
-- [Documentação em Português](../pt/index)
+- [English Documentation](/Ventana/en/)
+- [Documentação em Português](/Ventana/pt/)
 
 ---
 
