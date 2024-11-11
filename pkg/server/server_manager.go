@@ -30,9 +30,6 @@ func NewServerManager(localization *localization.Localization, appConfig *config
 		historyMgr:   historyMgr,
 		syntaxMgr:    NewSyntaxManager(appConfig, historyMgr, localization),
 	}
-	if err := server.syntaxMgr.ConfigureAutocomplete(); err != nil {
-		fmt.Println(server.localization.Msg("autocomplete_config_failed"), err)
-	}
 	return server
 }
 
